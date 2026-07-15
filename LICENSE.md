@@ -113,3 +113,6 @@ next_name() {
 
     echo "${name}(${i})"
 }
+
+
+hii ni ufala 
